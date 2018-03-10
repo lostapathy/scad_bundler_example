@@ -27,7 +27,7 @@ Then to install openscad_soften, along with any dependencies it has, run:
 scad_bundle install
 ```
 
-This resolves compatible versions of all libraries in the Scadfile, along with their dependencies, and installs them for use.
+This resolves compatible versions of all libraries in the Scadfile, along with their dependencies, and installs them for use.  In this example, `openscad_soften` depends on `openscad_util` and is automatically installed for us.
 
 ## How to use this example
 
