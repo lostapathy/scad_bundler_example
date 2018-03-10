@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    openscad_soften (0.1.0)
+      openscad_util (~> 0)
+    openscad_util (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  openscad_soften
+
+BUNDLED WITH
+   1.16.1

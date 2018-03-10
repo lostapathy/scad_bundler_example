@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+# gem 'openscad_util', git: 'https://github.com/lostapathy/openscad-libs'
+gem 'openscad_soften'
